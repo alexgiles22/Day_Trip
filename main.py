@@ -90,13 +90,3 @@ def run_day_trip():
     print("")
     
 run_day_trip()
-
-# user_choice = input(f"Then you'll grab some {day_trip_dictionary['Food']} while you enjoy {day_trip_dictionary['Activity']}. Sound good? (Y/N) ")
-# print("")
-# while user_choice != "Y":
-#         print("hmm...ok...lets start over then.")
-#         print("")
-#         run_day_trip()
-    # elif user_choice == "Y":
-    #     print("Have a great day trip!")
-    #     print("")
